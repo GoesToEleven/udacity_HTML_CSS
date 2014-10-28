@@ -1,0 +1,114 @@
+* {
+                                            /* outline: 1px solid red !important;*/
+    box-sizing: border-box;                 /* padding and border no longer increases element's width */
+}
+
+body {
+    width: 80%;                             /* page 80% of screen */
+    margin: 0 auto;                         /* page centered on screen */
+    padding: 1%;                            /* page with 1% padding */
+
+    font-family: 'Lato', sans-serif;        /* font settings from udacity*/
+    color: #bcbbbb;                         /* font settings from udacity*/
+    font-weight: 300;                       /* font settings from udacity*/
+    letter-spacing: .2em;                   /* add some kerning */
+}
+
+.flex-container {
+    display: flex;                          /* creates a flex container */
+    justify-content: space-between;         /* determines spacing between flex items */
+}
+
+header {
+    margin-bottom: 1em;                     /* header adds margin to bottom */
+    align-items: center;                    /* header align items in center of flex container */
+}
+
+header section * {
+    text-transform: uppercase;              /* header top right text */
+    text-align: right;                      /* header top right text */
+}
+
+h1 {
+    font-size: 3em;                         /* header top right text */
+}
+
+h2 {
+    font-size: 1.8em;                       /* featured work section heading */
+    margin-bottom: .5em;
+}
+
+h3 {
+    text-transform: uppercase;              /* featured work caption heading */
+    color: #747704;                         /* featured work caption heading */
+    font-size: 1.7em;                       /* featured work caption heading */
+    text-align: center;                     /* featured work caption heading */
+    letter-spacing: .1em;                   /* featured work caption reduce kerning */
+    margin-top: .5em;                       /* featured work captions reduce leading */
+}
+
+h4 {
+    font-size: 1.1em;                       /* header top right text */
+    margin-top: -1.25em;                    /* reduce leading */
+    color: #747704;                         /* header top right text */
+}
+
+p {
+    text-align: center;                     /* featured work captions */
+    margin-top: -1.25em;                    /* featured work captions reduce leading */
+    text-transform: lowercase;              /* featured work captions */
+    font-family: helvetica, sans-serif;     /* featured work captions becuase 'Lato' was unreadable at 100 */
+}
+
+body > header {
+    border-bottom: thick solid #bcbbbb;     /* line under header section */
+}
+
+.scale-img {
+    width: 100%;                            /* makes images scale as page scales*/
+}
+
+.text-muted {
+    color: #747704;                         /*font settings from udacity*/
+}
+
+.text-thin {
+    font-weight: 100;                       /*font settings from udacity*/
+}
+
+@media only screen and (min-width: 768px) {
+    article:first-child {
+        padding-right: 1em;                 /* padding for featured work images */
+    }
+    article:last-child {
+        padding-left: 1em;                  /* padding for featured work images */
+    }
+    h2 {
+        padding-left: 1em;                  /* padding for featured work heading */
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    main section {
+        flex-direction: column;             /* turn featured work into a column */
+    }
+    header section * {
+        text-align: center;                 /* header top right text */
+    }
+}
+
+@media only screen and (max-width: 710px) {
+    .flex-container {
+        justify-content: center;            /* center heading (h1, h4) */
+    }
+    header img {
+        display: none;                      /* remove logo from page */
+    }
+
+    header > section {
+        background: url("logo_udacity_alpha_20.png") no-repeat center;
+    }
+    h3 {
+        margin-top: 0;                      /* featured work captions reduce leading */
+    }
+}
