@@ -2,15 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0b14660-9ba6-4aa7-bd37-57c9d05475f7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/portfolio/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/portfolio/mockup_one.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/portfolio/mockup_one.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/portfolio/normalize.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/portfolio/temp" />
-      <change type="MOVED" beforePath="C:\Users\tm\Documents\udacity_HTML_CSS\portfolio\notes\lesson_one.html" afterPath="$PROJECT_DIR$/portfolio/notes/notes.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio/lesson_1/toplist/index.html" afterPath="$PROJECT_DIR$/portfolio/lesson_1/toplist/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio/lesson_2/framework/css/main2.css" afterPath="$PROJECT_DIR$/portfolio/lesson_2/framework/css/main2.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio/lesson_2/framework/test.html" afterPath="$PROJECT_DIR$/portfolio/lesson_2/framework/test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/portfolio/misc/mockup_one_backup.html" />
+      <change type="DELETED" beforePath="C:\Users\tm\Documents\udacity_HTML_CSS\portfolio\logo_udacity_alpha_20.psd" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\tm\Documents\udacity_HTML_CSS\portfolio\logo_udacity_alpha_30.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\tm\Documents\udacity_HTML_CSS\portfolio\logo_udacity_alpha_30.psd" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\tm\Documents\udacity_HTML_CSS\portfolio\logo_udacity_alpha_50.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\tm\Documents\udacity_HTML_CSS\portfolio\logo_udacity_alpha_50.psd" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\tm\Documents\udacity_HTML_CSS\portfolio\logo_udacity_alpha_60.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\tm\Documents\udacity_HTML_CSS\portfolio\logo_udacity_alpha_60.psd" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\tm\Documents\udacity_HTML_CSS\portfolio\logo_udacity_alpha_70.png" afterPath="" />
+      <change type="MOVED" beforePath="C:\Users\tm\Documents\udacity_HTML_CSS\portfolio\awake.jpg" afterPath="$PROJECT_DIR$/portfolio/final_project/assets/awake.jpg" />
+      <change type="MOVED" beforePath="C:\Users\tm\Documents\udacity_HTML_CSS\portfolio\bokeh.jpg" afterPath="$PROJECT_DIR$/portfolio/final_project/assets/bokeh.jpg" />
+      <change type="MOVED" beforePath="C:\Users\tm\Documents\udacity_HTML_CSS\portfolio\favicon.ico" afterPath="$PROJECT_DIR$/portfolio/final_project/assets/favicon.ico" />
+      <change type="MOVED" beforePath="C:\Users\tm\Documents\udacity_HTML_CSS\portfolio\logo.png" afterPath="$PROJECT_DIR$/portfolio/misc/logo.png" />
+      <change type="MOVED" beforePath="C:\Users\tm\Documents\udacity_HTML_CSS\portfolio\logo_orange.png" afterPath="$PROJECT_DIR$/portfolio/misc/logo_orange.png" />
+      <change type="MOVED" beforePath="C:\Users\tm\Documents\udacity_HTML_CSS\portfolio\logo_udacity.png" afterPath="$PROJECT_DIR$/portfolio/final_project/assets/logo_udacity.png" />
+      <change type="MOVED" beforePath="C:\Users\tm\Documents\udacity_HTML_CSS\portfolio\logo_udacity_alpha.png" afterPath="$PROJECT_DIR$/portfolio/misc/logo_udacity_alpha.png" />
+      <change type="MOVED" beforePath="C:\Users\tm\Documents\udacity_HTML_CSS\portfolio\logo_udacity_alpha_20.png" afterPath="$PROJECT_DIR$/portfolio/final_project/assets/logo_udacity_alpha_20.png" />
+      <change type="MOVED" beforePath="C:\Users\tm\Documents\udacity_HTML_CSS\portfolio\logo_udacity_alpha_70.psd" afterPath="$PROJECT_DIR$/portfolio/misc/logo_udacity_alpha_70.psd" />
+      <change type="MOVED" beforePath="C:\Users\tm\Documents\udacity_HTML_CSS\portfolio\main.jpg" afterPath="$PROJECT_DIR$/portfolio/final_project/assets/main.jpg" />
+      <change type="MOVED" beforePath="C:\Users\tm\Documents\udacity_HTML_CSS\portfolio\mockup_one.css" afterPath="$PROJECT_DIR$/portfolio/final_project/css/mockup_one.css" />
+      <change type="MOVED" beforePath="C:\Users\tm\Documents\udacity_HTML_CSS\portfolio\mockup_one.html" afterPath="$PROJECT_DIR$/portfolio/final_project/mockup_one.html" />
+      <change type="MOVED" beforePath="C:\Users\tm\Documents\udacity_HTML_CSS\portfolio\normalize.css" afterPath="$PROJECT_DIR$/portfolio/final_project/css/normalize.css" />
+      <change type="MOVED" beforePath="C:\Users\tm\Documents\udacity_HTML_CSS\portfolio\sunflower.jpg" afterPath="$PROJECT_DIR$/portfolio/final_project/assets/sunflower.jpg" />
+      <change type="MOVED" beforePath="C:\Users\tm\Documents\udacity_HTML_CSS\portfolio\temp" afterPath="$PROJECT_DIR$/portfolio/misc/temp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="udacity_HTML_CSS.iws" />
@@ -54,48 +69,7 @@
     <favorites_list name="udacity_HTML_CSS" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="test.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/portfolio/lesson_2/framework/test.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-26.586206" vertical-offset="509" max-vertical-offset="1440">
-              <caret line="64" column="10" selection-start-line="64" selection-start-column="10" selection-end-line="64" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="temp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/portfolio/temp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="940" max-vertical-offset="1980">
-              <caret line="93" column="1" selection-start-line="93" selection-start-column="1" selection-end-line="93" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mockup_one.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/portfolio/mockup_one.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.0689656" vertical-offset="109" max-vertical-offset="1040">
-              <caret line="7" column="72" selection-start-line="7" selection-start-column="72" selection-end-line="7" selection-end-column="72" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mockup_one.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/portfolio/mockup_one.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8310454" vertical-offset="1373" max-vertical-offset="2400">
-              <caret line="108" column="45" selection-start-line="108" selection-start-column="45" selection-end-line="108" selection-end-column="45" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -230,9 +204,11 @@
       <recent name="C:\Users\tm\Documents\udacity_HTML_CSS\portfolio\lesson_2\css" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tm\Documents\udacity_HTML_CSS\portfolio\misc" />
+      <recent name="C:\Users\tm\Documents\udacity_HTML_CSS\portfolio\final_project\css" />
+      <recent name="C:\Users\tm\Documents\udacity_HTML_CSS\portfolio\final_project\assets" />
+      <recent name="C:\Users\tm\Documents\udacity_HTML_CSS\portfolio\final_project" />
       <recent name="C:\Users\tm\Documents\udacity_HTML_CSS\portfolio" />
-      <recent name="C:\Users\tm\Documents\udacity_HTML_CSS\portfolio\lesson_1" />
-      <recent name="C:\Users\tm\Documents\udacity_HTML_CSS\portfolio\lesson_2" />
     </key>
   </component>
   <component name="RunManager">
@@ -290,14 +266,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -333,55 +309,11 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/portfolio/lesson_2/framework/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="1240">
-          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/mockup_one.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1080" max-vertical-offset="2060">
-          <caret line="80" column="2" selection-start-line="80" selection-start-column="2" selection-end-line="80" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/mockup_one.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1020">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/lesson_2/framework/frame_01.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="860">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/lesson_2/framework/test3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="263" max-vertical-offset="1411">
-          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/lesson_2/framework/css/main3.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="1071">
-          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/portfolio/lesson_2/framework/frame_01.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="442">
           <caret line="9" column="53" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="53" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -546,7 +478,7 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/normalize.css">
+    <entry file="file://$PROJECT_DIR$/portfolio/final_project/css/normalize.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8640">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -565,6 +497,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.107411385" vertical-offset="0" max-vertical-offset="1240">
           <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="52" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -628,6 +561,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-8.275862" vertical-offset="0" max-vertical-offset="860">
           <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -649,6 +583,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5696056" vertical-offset="569" max-vertical-offset="1500">
           <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -660,39 +595,72 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/logo.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/lesson_2/framework/test.html">
+    <entry file="file://$PROJECT_DIR$/portfolio/misc/temp">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-26.586206" vertical-offset="509" max-vertical-offset="1440">
-          <caret line="64" column="10" selection-start-line="64" selection-start-column="10" selection-end-line="64" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/temp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="940" max-vertical-offset="1980">
+        <state vertical-scroll-proportion="0.9583333" vertical-offset="940" max-vertical-offset="1980">
           <caret line="93" column="1" selection-start-line="93" selection-start-column="1" selection-end-line="93" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/mockup_one.html">
+    <entry file="file://$PROJECT_DIR$/portfolio/lesson_2/framework/test.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.0689656" vertical-offset="109" max-vertical-offset="1040">
-          <caret line="7" column="72" selection-start-line="7" selection-start-column="72" selection-end-line="7" selection-end-column="72" />
+        <state vertical-scroll-proportion="0.8281418" vertical-offset="509" max-vertical-offset="1440">
+          <caret line="64" column="10" selection-start-line="64" selection-start-column="10" selection-end-line="64" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/mockup_one.css">
+    <entry file="file://$PROJECT_DIR$/portfolio/misc/mockup_one_backup.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8310454" vertical-offset="1373" max-vertical-offset="2400">
-          <caret line="108" column="45" selection-start-line="108" selection-start-column="45" selection-end-line="108" selection-end-column="45" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1040">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio/final_project/assets/favicon.ico">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio/final_project/assets/bokeh.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio/misc/logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio/misc/logo_orange.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio/final_project/assets/logo_udacity.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio/final_project/assets/main.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio/final_project/css/mockup_one.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7083333" vertical-offset="1420" max-vertical-offset="2380">
+          <caret line="105" column="5" selection-start-line="105" selection-start-column="5" selection-end-line="105" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio/final_project/mockup_one.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.06444683" vertical-offset="80" max-vertical-offset="1040">
+          <caret line="7" column="72" selection-start-line="7" selection-start-column="72" selection-end-line="7" selection-end-column="72" />
           <folding />
         </state>
       </provider>
