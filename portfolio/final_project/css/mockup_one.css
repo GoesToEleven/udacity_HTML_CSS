@@ -15,12 +15,21 @@ body {
 }
 
 .flex-container {
+    display: -webkit-box;                   /* creates a flex container */
+    display: -webkit-flex;                  /* creates a flex container */
+    display: -ms-flexbox;                   /* creates a flex container */
     display: flex;                          /* creates a flex container */
+    -webkit-box-pack: justify;              /* determines spacing between flex items */
+    -webkit-justify-content: space-between; /* determines spacing between flex items */
+    -ms-flex-pack: justify;                 /* determines spacing between flex items */
     justify-content: space-between;         /* determines spacing between flex items */
 }
 
 header {
     margin-bottom: 1em;                     /* header adds margin to bottom */
+    -webkit-box-align: center;              /* header align items in center of flex container */
+    -webkit-align-items: center;            /* header align items in center of flex container */
+    -ms-flex-align: center;                 /* header align items in center of flex container */
     align-items: center;                    /* header align items in center of flex container */
 }
 
@@ -90,6 +99,10 @@ body > header {
 
 @media only screen and (max-width: 767px) {
     main section {
+        -webkit-box-orient: vertical;       /* turn featured work into a column */
+        -webkit-box-direction: normal;      /* turn featured work into a column */
+        -webkit-flex-direction: column;     /* turn featured work into a column */
+        -ms-flex-direction: column;         /* turn featured work into a column */
         flex-direction: column;             /* turn featured work into a column */
     }
     header section * {
@@ -99,6 +112,9 @@ body > header {
 
 @media only screen and (max-width: 710px) {
     .flex-container {
+        -webkit-box-pack: center;           /* center heading (h1, h4) */
+        -webkit-justify-content: center;    /* center heading (h1, h4) */
+        -ms-flex-pack: center;              /* center heading (h1, h4) */
         justify-content: center;            /* center heading (h1, h4) */
     }
     header img {
