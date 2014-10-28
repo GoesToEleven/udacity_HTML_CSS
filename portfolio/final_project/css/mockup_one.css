@@ -11,7 +11,7 @@ body {
     font-family: 'Lato', sans-serif;        /* font settings from udacity*/
     color: #bcbbbb;                         /* font settings from udacity*/
     font-weight: 300;                       /* font settings from udacity*/
-    letter-spacing: .2em;                   /* add some kerning */
+    letter-spacing: 0.2em;                  /* add some kerning */
 }
 
 .flex-container {
@@ -44,7 +44,7 @@ h1 {
 
 h2 {
     font-size: 1.8em;                       /* featured work section heading */
-    margin-bottom: .5em;
+    margin-bottom: 0.5em;
 }
 
 h3 {
@@ -52,8 +52,8 @@ h3 {
     color: #747704;                         /* featured work caption heading */
     font-size: 1.7em;                       /* featured work caption heading */
     text-align: center;                     /* featured work caption heading */
-    letter-spacing: .1em;                   /* featured work caption reduce kerning */
-    margin-top: .5em;                       /* featured work captions reduce leading */
+    letter-spacing: 0.1em;                  /* featured work caption reduce kerning */
+    margin-top: 0.5em;                      /* featured work captions reduce leading */
 }
 
 h4 {
@@ -89,9 +89,11 @@ body > header {
     article:first-child {
         padding-right: 1em;                 /* padding for featured work images */
     }
+
     article:last-child {
         padding-left: 1em;                  /* padding for featured work images */
     }
+
     h2 {
         padding-left: 1em;                  /* padding for featured work heading */
     }
@@ -105,6 +107,7 @@ body > header {
         -ms-flex-direction: column;         /* turn featured work into a column */
         flex-direction: column;             /* turn featured work into a column */
     }
+
     header section * {
         text-align: center;                 /* header top right text */
     }
@@ -117,12 +120,15 @@ body > header {
         -ms-flex-pack: center;              /* center heading (h1, h4) */
         justify-content: center;            /* center heading (h1, h4) */
     }
+
     header img {
         display: none;                      /* remove logo from page */
     }
+
     header > section {
         background: url("../assets/logo_udacity_alpha_20.png") no-repeat center;
     }
+
     h3 {
         margin-top: 0;                      /* featured work captions reduce leading */
     }
